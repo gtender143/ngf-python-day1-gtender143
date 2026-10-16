@@ -1,3 +1,4 @@
+#improve greeting and add context
 def main():
   print("Hello from NGF Day 1")
 
